@@ -37,5 +37,6 @@ AI-Collections-System/
 
 ## 📫 Connect
 
-Created by [Mirsha Kudukkan](https://www.linkedin.com/in/mirshakudukkan)  
+Created by [Mirsha Kudukkan](https://www.linkedin.com/in/mirsha-kudukkan-b9937a282/)
+
 Let’s connect and collaborate on AI, fintech, or data-driven projects!
